@@ -22,8 +22,7 @@
 <b>Abstract:</b> <i>With the growing prevalence of contemporary mobile imaging, Lightweight Low-Light Image Enhancement (L3IE) has become essential for mobile devices, which continually face a trade-off between visual quality and model compactness. While recent methods employ disentangling strategies to simplify lightweight architectural design, such as Retinex theory and YUV color space transformations, their performance is fundamentally limited by overlooking channel-specific degradation patterns and cross-channel interactions. To address this gap, we perform a frequency-domain analysis that confirms the superiority of the YUV color space for L3IE. We identify a key insight: the Y channel primarily loses low-frequency content, while the UV channels are corrupted by high-frequency noise. Building on this observation, we propose a novel YUV-based approach that strategically restores channels using a Dual-Stream Global-Local Attention module for the Y channel, a Y-guided Local-Aware Frequency Attention module for the UV channels, and a Guided Interaction module for the final feature fusion. Comprehensive experimental results validate that our model achieves an effective trade-off between visual quality and model compactness across multiple benchmarks.</i>
 </blockquote>
 
-<p align="center">
-  <img width="1000" src="figs/framework.png">
+
 </p>
 
 ---
