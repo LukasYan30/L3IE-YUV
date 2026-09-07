@@ -3,10 +3,7 @@
 <div align="center">
   <hr>
   Hailong Yan<sup>1,2</sup>&nbsp;
-  Shice Liu<sup>2</sup>&nbsp;
   Xiangtao Zhang<sup>1</sup>&nbsp;
-  Lujian Yao<sup>2</sup>&nbsp;
-  Fengxiang Yang<sup>2</sup>&nbsp;
   Jinwei Chen<sup>2</sup>&nbsp;
   Bo Li<sup>2,†</sup>&nbsp;
   <br>
